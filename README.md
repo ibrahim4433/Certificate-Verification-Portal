@@ -1,6 +1,6 @@
-# acbpt-verify-id-blogger-theme
+# verify id certificate using a free blogger hosted theme portal :
 
-Professional Blogger XML theme for a Certificate Verification Portal.
+Professional secure way to use Blogger XML theme for a Certificate Verification Portal.
 
 ## Blogger quick setup
 
